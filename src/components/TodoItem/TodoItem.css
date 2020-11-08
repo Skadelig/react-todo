@@ -1,0 +1,19 @@
+.todo-item {
+    display: flex;
+    justify-content: space-between;
+    cursor: pointer;
+}
+
+.todo-item-control .btn {
+    margin-left: 5px;
+    min-width: 32px;
+}
+
+.importantClass {
+    font-weight: 700;
+    color: rgb(50, 100, 100);
+}
+
+.done {
+    text-decoration: line-through;
+}
